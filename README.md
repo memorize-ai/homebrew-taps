@@ -1,0 +1,1 @@
+# memorize.ai Homebrew taps
