@@ -1,5 +1,13 @@
 # memorize.ai Homebrew taps
 
-## Desktop
+## Install the desktop app
 
-Install the desktop app with `brew cask install memorize-ai/taps/memorize.ai`
+### Download
+
+**See [Releases](https://github.com/kenmueller/memorize.ai-desktop/releases)**
+
+### Homebrew
+
+```bash
+brew tap memorize-ai/taps && brew cask install memorize.ai
+```
